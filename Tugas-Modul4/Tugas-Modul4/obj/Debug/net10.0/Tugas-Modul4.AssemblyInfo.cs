@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tugas-Modul4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c64da5118c09d39e290c0acd2b5626638366d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tugas-Modul4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tugas-Modul4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
