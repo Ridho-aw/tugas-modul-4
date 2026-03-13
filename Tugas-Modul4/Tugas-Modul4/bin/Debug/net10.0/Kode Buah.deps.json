@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Kode Buah/1.0.0": {
+        "runtime": {
+          "Kode Buah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kode Buah/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

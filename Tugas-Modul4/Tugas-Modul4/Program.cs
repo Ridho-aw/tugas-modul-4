@@ -23,7 +23,7 @@ public class KodeBuah
             if (ibuah.Equals(buah.ToString()))
             {
                 gKodeBuah = getKodeBuah(Kode);
-                Console.WriteLine($"Buah {ibuah} Kode Buah {getKodeBuah}");
+                Console.WriteLine($"Buah {ibuah} Kode Buah {gKodeBuah}");
                 break;
             }
             else

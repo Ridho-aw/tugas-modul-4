@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\R9480\\Documents\\KPL\\Praktikum Modul 4\\Tugas MODUL4_103082400024\\Tugas-Modul4\\Tugas-Modul4\\Kode Buah.csproj",
-      "projectName": "Kode Buah",
-      "projectPath": "C:\\Users\\R9480\\Documents\\KPL\\Praktikum Modul 4\\Tugas MODUL4_103082400024\\Tugas-Modul4\\Tugas-Modul4\\Kode Buah.csproj",
+      "projectUniqueName": "C:\\Users\\R9480\\Documents\\KPL\\Praktikum Modul 4\\Tugas MODUL4_103082400024\\Tugas-Modul4\\PosisiKarakterGame\\PosisiKarakterGame.csproj",
+      "projectName": "PosisiKarakterGame",
+      "projectPath": "C:\\Users\\R9480\\Documents\\KPL\\Praktikum Modul 4\\Tugas MODUL4_103082400024\\Tugas-Modul4\\PosisiKarakterGame\\PosisiKarakterGame.csproj",
       "packagesPath": "C:\\Users\\R9480\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\R9480\\Documents\\KPL\\Praktikum Modul 4\\Tugas MODUL4_103082400024\\Tugas-Modul4\\Tugas-Modul4\\obj\\",
+      "outputPath": "C:\\Users\\R9480\\Documents\\KPL\\Praktikum Modul 4\\Tugas MODUL4_103082400024\\Tugas-Modul4\\PosisiKarakterGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

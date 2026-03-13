@@ -1,0 +1,15 @@
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\bin\Debug\net10.0\Kode Buah.exe
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\bin\Debug\net10.0\Kode Buah.deps.json
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\bin\Debug\net10.0\Kode Buah.runtimeconfig.json
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\bin\Debug\net10.0\Kode Buah.dll
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\bin\Debug\net10.0\Kode Buah.pdb
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.AssemblyInfoInputs.cache
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.AssemblyInfo.cs
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.csproj.CoreCompileInputs.cache
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.sourcelink.json
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.dll
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\refint\Kode Buah.dll
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.pdb
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\Kode Buah.genruntimeconfig.cache
+C:\Users\R9480\Documents\KPL\Praktikum Modul 4\Tugas MODUL4_103082400024\Tugas-Modul4\Tugas-Modul4\obj\Debug\net10.0\ref\Kode Buah.dll
